@@ -25,8 +25,7 @@ function Header() {
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
   const viewTalks = talkSection.display;
-
-  const viewDonation = donationInfo.display
+  const viewDonation = donationInfo.display;
   const viewResume = resumeSection.display;
 
 
