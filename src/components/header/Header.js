@@ -99,7 +99,6 @@ function Header() {
               <ToggleSwitch />
             </a>
           </li>
-        </ul>
       </header>
     </Headroom>
   );
