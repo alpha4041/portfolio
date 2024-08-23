@@ -86,7 +86,8 @@ function Header() {
             <li>
               <a href="#donation">Donate</a>
             </li>
-          {viewResume && (
+           )}
+           {viewResume && (
             <li>
               <a href="#resume">Resume</a>
             </li>
